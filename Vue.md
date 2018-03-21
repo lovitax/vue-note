@@ -45,5 +45,12 @@ destroy
 
 ```js
 let a = 1
+let b = {
+        a: 1,
+        c: 2
+}
 ```
 
+https://www.jianshu.com/p/258a2f734a85
+webpack原理
+https://www.cnblogs.com/libin-1/p/6958858.html
